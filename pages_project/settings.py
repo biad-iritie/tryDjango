@@ -25,7 +25,7 @@ SECRET_KEY = 'ezgg+#aks_&r=w)d4(iig0(sbd5e!q!t++67yb!&-h4_9k5g(t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
